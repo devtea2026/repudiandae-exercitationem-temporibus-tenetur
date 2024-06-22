@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/repudiandae-exercitationem-temporibus-tenetur",
-  "version": "3.8.42",
+  "version": "3.8.43",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -661,5 +661,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/repudiandae-exercitationem-temporibus-tenetur/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
